@@ -46,7 +46,7 @@ caliper measurement.
 
 ## Requirements
 
-- Siemens NX **[FILL: version]** with Post Builder **[FILL: version]**
+- Siemens NX with Post Builder
 - Python 3.8 or newer, with numpy (`pip install numpy`) for `merge_support.py`
 
 The NX version matters: the post-processor definition is version-dependent and may not
@@ -110,7 +110,7 @@ roughness (Ra, Rz) has not been measured.
 
 ## License
 
-[FILL: MIT or CC-BY-4.0 — add the matching LICENSE file]
+MIT 
 
 ## Citation
 
