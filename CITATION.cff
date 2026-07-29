@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Non-planar FDM on standard three-axis printers via a Siemens NX post-processing workflow"
+authors:
+  - family-names: Devassy
+    given-names: Amal
+  - family-names: Tarde
+    given-names: Atharva Balkrishna
+  - family-names: Sharma
+    given-names: Himanshu
+  - family-names: Abdul Sathar
+    given-names: Muhammed Saad
+affiliation: "Institute of Mechanical Engineering (IMW), Clausthal University of Technology, Germany"
+# Fill these in after publication / Zenodo release:
+# version: 1.0.0
+# doi: 10.5281/zenodo.XXXXXXX
+# date-released: YYYY-MM-DD
+license: [FILL: MIT or CC-BY-4.0]
